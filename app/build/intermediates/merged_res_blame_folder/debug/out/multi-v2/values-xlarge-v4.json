@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Admin\\Downloads\\GHC_Test_Registration_login_sqlite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-xlarge-v4\\values-xlarge-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\c59403a7dcda879c8eee7a7a9c42c644\\transformed\\appcompat-v7-23.4.0\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,9,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,550,614",
+                        "endColumns": "76,63,54",
+                        "endOffsets": "127,609,664"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Admin\\.gradle\\caches\\transforms-3\\a3d74e476ca4beda2efa6f1a34f564a9\\transformed\\appcompat-1.4.1\\res\\values-xlarge-v4\\values-xlarge-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,126,197,267,337,405",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "121,192,262,332,400,468"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "132,203,274,344,414,482",
+                        "endColumns": "70,70,69,69,67,67",
+                        "endOffsets": "198,269,339,409,477,545"
+                    }
+                }
+            ]
+        }
+    ]
+}
